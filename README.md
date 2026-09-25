@@ -1,6 +1,8 @@
 # timethis
 
 ```python
+from timethis import timethis
+
 @timethis
 def f():
     import time
